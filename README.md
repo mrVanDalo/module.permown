@@ -9,3 +9,7 @@ services.permown."/srv/www" = {
   group = "www";
 };
 ```
+
+## Acknowledgement
+
+The code is extracted from [stockholm the krebs repository](https://cgit.krebsco.de/stockholm/tree/krebs/3modules/permown.nix) and slightly modified.
